@@ -1,0 +1,72 @@
+.bg-head{
+    background-color: black;
+}
+
+.logo-img{
+    height: 150px;
+}
+
+
+.bg-line{
+    background-color: rgb(112, 20, 231);
+    height:10px;
+}
+
+.bg-nav{
+    background-color: rgb(8, 8, 8);
+}
+
+#menu ul li a{
+    font-size: 20px;
+    color: white !important;
+}
+
+.main-heading{
+    font-size: 44px;
+    font-weight:normal;
+}
+
+.sub-heading{
+    font-size: 33px;
+    font-weight:normal;
+}
+
+.main-para{
+    font-size: 23px;
+    font-weight:normal;
+    text-align: justify;
+}
+
+
+.add-space-one{
+    min-height: 200px;
+    width: auto;
+}
+
+
+.add-space-two{
+    min-height: 200px;
+    width: auto;
+}
+
+
+.special .card{
+    display: flex;
+}
+
+.bg-sub-footer{
+    background-color: rgb(112, 20, 231);
+}
+
+.bg-footer{
+    background-color: rgb(0, 0, 0);
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+
+h1, h2, h3, h4, h5, p {
+    color: white;
+}
